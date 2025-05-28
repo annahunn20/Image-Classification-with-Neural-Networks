@@ -1,6 +1,4 @@
-Got it! Here's the updated README without the image block and with your GitHub username `annahunn20` included:
 
-````markdown
 # 🚗 Image Classification with Neural Networks
 
 ---
